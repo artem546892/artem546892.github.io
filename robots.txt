@@ -1,4 +1,4 @@
 User-agent: * Disallow:
-https://artem546892.github.io
-https://artem546892.github.io/diets.html
-https://artem546892.github.io/sitemap.xml
+https://www.artem546892.github.io
+https://www.artem546892.github.io/diets.html
+https://www.artem546892.github.io/sitemap.txt
